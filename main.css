@@ -10,9 +10,12 @@
 }
 .product-img{
 
-    height: 600px;
+    height: 450px;
     /* widthظ: 200px;         */
     /* height: 200px; */
+}
+.pro-card{
+    height: 500px;
 }
 .product-img>img{
     width: 100%;
